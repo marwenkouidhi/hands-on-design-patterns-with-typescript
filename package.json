@@ -1,0 +1,17 @@
+{
+  "name": "hands-on-design-patterns-with-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marwenkouidhi/hands-on-design-patterns-with-typescript.git",
+  "author": "marwenkouihdi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.15.7",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
